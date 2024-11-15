@@ -58,12 +58,16 @@ Directory for local usage
 
 travel_cms/
 ├── admin/
-│   ├── edit_admin.php         # Edit an admin user
-│   ├── edit_destination.php   # Edit a travel destination
-│   ├── manage_admins.php      # Manage admin users
-│   ├── manage_content.php     # Manage travel destinations
-│   ├── new_admin.php          # Add a new admin user
-│   ├── new_destination.php    # Add a new travel destination
+│   ├── 1.)edit_admin.php         # Edit an admin user
+│   ├── 2.)edit_destination.php   # Edit a travel destination
+│   ├── 3.)manage_admins.php      # Manage admin users
+│   ├── 4.)manage_content.php     # Manage travel destinations
+│   ├── 5.)new_admin.php          # Add a new admin user
+│   ├── 6.)new_destination.php    # Add a new travel destination
+
+
+
+
 ├── includes/
 │   ├── db_connection.php      # Database connection
 │   ├── functions.php          # Utility functions
